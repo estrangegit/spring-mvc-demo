@@ -11,6 +11,6 @@
 	
 	<hr>
 	
-	<a href="showForm">Hello world form</a>
+	<a href="hello/showForm">Hello world form</a>
 </body>
 </html>
